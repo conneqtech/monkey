@@ -1,3 +1,3 @@
-module bou.ke/monkey
+module github.com/conneqtech/monkey
 
 go 1.13

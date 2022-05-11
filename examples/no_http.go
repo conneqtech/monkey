@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"strings"
 
-	"bou.ke/monkey"
+	"github.com/conneqtech/monkey"
 )
 
 func main() {
